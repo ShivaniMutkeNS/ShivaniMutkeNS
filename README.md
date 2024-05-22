@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Javascript, Shad-CN**
 
-- 👯 I’m looking to collaborate on **Farmerse Contributing project**
+- 👯 I’m looking to collaborate on **Farmarse Contributing project**
 
 - 📝 I regularly write articles on [https://medium.com/@MShivani](https://medium.com/@MShivani)
 
