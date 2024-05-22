@@ -1,7 +1,7 @@
 
-[<img width="100%" src="./readme_intro.gif" alt="👋 Hello there! I'm Shivani| https://ritvij.tech" title="👋 Hello there! I am Shivani | https://ritvij.tech"/>](https://ritvij.tech/)
+<h1>Hello Folks!! I am Shivani Mutke</h1>
 
-
+<h2>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35" /></h2>
 
 <h3 align="center">Innovating for a Better World and Advancing Technology with My Coding Passion</h3>
 
