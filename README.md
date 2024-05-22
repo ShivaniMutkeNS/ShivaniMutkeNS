@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shivani Mutke</h1>
+
+[<img width="100%" src="./readme_intro.gif" alt="👋 Hello there! I'm Shivani| https://ritvij.tech" title="👋 Hello there! I am Shivani | https://ritvij.tech"/>](https://ritvij.tech/)
+
+
+
 <h3 align="center">Innovating for a Better World and Advancing Technology with My Coding Passion</h3>
 
 
