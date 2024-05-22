@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivani Mutke</h1>
 <h3 align="center">Innovating for a Better World and Advancing Technology with My Coding Passion</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanimutkens&label=Profile%20views&color=0e75b6&style=flat" alt="shivanimutkens" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanimutkens" alt="shivanimutkens" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrathmeshMutke" alt="PrathmeshMutke" /></a> </p>
 
+<img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 - 🔭 I’m currently working on **E-commerse FullStack Project**
 
 - 🌱 I’m currently learning **React, Javascript, Shad-CN**
@@ -21,9 +21,9 @@
 
 - ⚡ Fun fact **As a full-stack developer, I once debugged a front-end issue, optimized a database query, and configured a server—all before my first coffee of the day!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Praveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivaniMutkeNS)](https://git.io/J1Ycx)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,6 +43,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanimutkens&show_icons=true&locale=en" alt="shivanimutkens" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanimutkens&" alt="shivanimutkens" /></p>
+
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
 <!---
 ShivaniMutkeNS/ShivaniMutkeNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
